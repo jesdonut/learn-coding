@@ -11,7 +11,7 @@ def guess(x):
             print('Sorry, too high!')
     print(f'You got it!, the number is {random_number}!')
 
-guess(10)        
+# guess(10)        
 # print(guess)
 
 def computer_guess(x):
