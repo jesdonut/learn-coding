@@ -1,6 +1,6 @@
 # introduction
-hello! i'm kafka/jessica
-learning how to code since feb 11, 2026
+hello! i'm kafka/jessica.<br>
+learning how to code since feb 11, 2026.<br>
 i want to compile everything here and make my github more active!
 
 ## languages
@@ -17,8 +17,10 @@ i want to compile everything here and make my github more active!
 i mainly learn from preply tutor, freecodecamp, theodinproject, and others.
 
 ## repository structure
+```
 learn-coding 
 ├─ 01-html 
 ├─ 02-css 
 ├─ 03-python 
 └─ 04-javascript
+```
